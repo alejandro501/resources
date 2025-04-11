@@ -1,0 +1,16 @@
+api_key
+client_secret
+SECRET_KEY
+github_token
+aws_access_key_id
+app_secret
+xoxp OR xoxb OR xoxa
+.env
+secrets
+firebase_admin_sdk
+stripe_api_key
+twilio_auth_token
+jwt_secret
+service_account.json
+oauth2_access_token
+

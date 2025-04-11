@@ -1,0 +1,5 @@
+content-type: application/json"
+content-type: application/xml"
+200 OK"
+wp-json"
+

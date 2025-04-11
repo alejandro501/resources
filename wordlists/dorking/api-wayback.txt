@@ -1,0 +1,20 @@
+API documentation
+API reference
+API guide
+API endpoint
+API examples
+REST
+GraphQL
+Public API
+openapi
+API tutorial
+Search API documentation
+Get started with API
+API usage
+API client library
+Data retrieval API
+Web API methods
+API authentication
+API data formats (JSON/XML)
+"API documentation"
+
