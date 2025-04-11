@@ -1,9 +1,9 @@
-# Offensive Security Wordlists
+# offsec wordlist
 
 **Curated collection for penetration testers and red teamers**  
 *Custom-crafted wordlists marked with 501 prefix*
 
-## 🌟 Custom-Crafted Wordlists (501 Series)
+## 🌞 Custom-Crafted Wordlists (501 Series)
 
 ### `501-api-wild.txt`
 ```text
@@ -16,7 +16,7 @@ Sources:
 ### `501-big-clean-list-of-naughty-attack-strings.txt`
 ```text
 Description: Fusion of SecLists's **big-list-of-naughty-strings.txt** and wfuzz's **All_attacks.txt**. Cleaned up and ready to roll.
-Purpose: Large-scale nput validation testing
+Purpose: Large-scale input validation testing
 Lines: 935
 Sources:
 - big-list-of-naughty-strings.txt (SecLists)
