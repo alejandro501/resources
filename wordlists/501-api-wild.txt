@@ -125,4 +125,3 @@ v2/tools/price-conversion
 v3/cryptocurrency/quotes/historical
 __version__
 webhooks
-
